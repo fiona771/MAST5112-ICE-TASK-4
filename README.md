@@ -30,5 +30,4 @@ The application includes current weather conditions, a 24-hour forecast, a five-
 
 # Conclusion
 This task involved identifying and correcting issues in the weather dashboard's React Native and TypeScript code. The corrections addressed city selection, image rendering, forecast data, temperature displays, and weather detail values.
-
 The application was tested using Expo Go in BlueStacks 5. The final testing results and screenshot document the application's actual behaviour after debugging.
